@@ -1,4 +1,7 @@
-# Introduction:
+# Flight Delay Analysis
+
+
+## Introduction:
 Tasked to do a class project using Pandas, a wide spectrum of historical, financial, and comparative analysis was considered. While assessing the requirements of project and scope of our learning, we chose to perform exploratory analysis for flight arrivals and delays for U.S. airports through January 2018 – December 2022. In the first half of 2022, about 20% of the flights were delayed by 15 minutes or more(valuepenguin). A flight is considered delayed when it arrives 15 or more minutes than scheduled.  Delayed minutes are calculated for delayed flights only (Bureau of Transportation Statistics). According to DOT’s Air Travel Consumer Report, leading causes of delay were directly related to airline, such as Air Carier Delay and Aircraft Arriving late, while weather and other situations that were outside of direct control had minimal effect.Senate Joint Economic Committee (SJEC) in their report estimated passengers were delayed by 320 million hours in 2007. 
 
 Travel delayd varies across airports depending upon diffren causes of delay. This project provides an insight into the performance of Top20 U.S. Airports and operating Carriers thereof during 2018-2022. Additionally, it briefly highlights the primary contributors to delays, such as carrier-related issues, weather conditions, NAS inefficiencies, security concerns, or late aircraft arrivals. It could assist travelers to make better decisions in operational and financial aspects of travelling. This project included performance analysis, trend identification and root cause analysis but this data set could be effectively used for predictive modeling.
