@@ -51,6 +51,16 @@ By collecting further details from different online resources, we explored that 
 Our data analysis further revealed that Atlanta International Airport (ATL) could be termed the hub of air travel. It had the most traffic volume of arriving flights, about 9.8% of all flights. Dallas/Fort Worth International Airport (DFW) & O’Hare International Airport(ORD)  has 8% of the volume share. However when it comes to most delaying airports, Dallas/Fort Worth International Airport (DFW), O’Hare International Airport(ORD), Denver International Airport(DEN), Atlanta International Airport (ATL)  and Los Angeles International Airport(LAX) are the top 5 delaying airports.
 
 
+<div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+          <img src="top_20_airports.png" width="200"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="most_delaying_airports.png" width="300"/>
+     </div>
+     
+</div>
+
 ![image3](top_20_airports.png){: style="height:83px"} ![image4](most_delaying_airports.png){: style="height:83px"}
 
         
