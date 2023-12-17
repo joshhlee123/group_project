@@ -61,7 +61,7 @@ Our data analysis further revealed that Atlanta International Airport (ATL) coul
      
 </div>
 
-![image3](top_20_airports.png){: style="height:83px"} ![image4](most_delaying_airports.png){: style="height:83px"}
+![image3](top_20_airports.png){: style="height:83px"} + ![image4](most_delaying_airports.png){: style="height:83px"}
 
         
 The interactive chart created for each airport provides users flexibility and a set of tool for analysis and to predict the probability of arrival performance and chances of delay for a specific airport and make a quick comparison with the average of all airports. Geo Maps are created to describe the location of Top US Airports reflecting the volume and dealyed ratio thereof.
