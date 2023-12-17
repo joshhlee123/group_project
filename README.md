@@ -57,7 +57,7 @@ Our data analysis further revealed that Atlanta International Airport (ATL) coul
 
 
         
-The ** interactive chart created** for each airport provides users flexibility and a set of tool for analysis and to predict the probability of arrival performance and chances of delay for a specific airport and make a quick comparison with the average of all airports. Geo Maps are created to describe the location of Top US Airports reflecting the volume and dealyed ratio thereof.
+The **interactive chart created** for each airport provides users flexibility and a set of tool for analysis and to predict the probability of arrival performance and chances of delay for a specific airport and make a quick comparison with the average of all airports. Geo Maps are created to describe the location of Top US Airports reflecting the volume and dealyed ratio thereof.
 
 
 ![image 5](interactive_pie_chart.png)
