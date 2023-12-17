@@ -61,6 +61,11 @@ Our data analysis further revealed that Atlanta International Airport (ATL) coul
      
 </div>
 
+| Cat pics                            | Dog pics                            |
+| ----------------------------------- | ----------------------------------- |
+| ![cat](top_20_airports.png) | ![dog](most_delaying_airports.png) |
+
+
 ![image3](top_20_airports.png){: style="height:83px"} + ![image4](most_delaying_airports.png){: style="height:83px"}
 
         
